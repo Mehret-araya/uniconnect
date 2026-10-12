@@ -1,0 +1,6 @@
+{
+  "name": "UniConnect",
+  "description": "Smart Campus App for university students to discover events, join clubs, connect with peers, and navigate campus life.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
